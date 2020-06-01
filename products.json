@@ -1,0 +1,225 @@
+{
+	"topics": [
+		"all",
+		"novice",
+		"intermediate",
+		"expert"
+	],
+	"topic": "all",
+	"sorts": [
+		"most_popular",
+		"most_recent",
+		"most_viewed"
+	],
+	"sort": "most_popular",
+	"q": "",
+	"courses": [
+		{
+			"id": 2,
+			"title": "Sweet Corn",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://assets-prd-weg.unataops.com/web/product_medium/6428c17b0085932817a79e9a067deb31b4222a75.jpg",
+			// "author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_2.jpg",
+			"star": 5,
+			"price": "$0.50",
+			"topic": "Novice",
+			"views": 420,
+			"published_at": 1586734429,
+			"keywords": [
+				"Sad",
+				"Face"
+			]
+		},
+		{
+			"id": 6,
+			"title": "Cry and Smile",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_4.jpg",
+			"author": "Henry Hughes",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_4.jpg",
+			"star": 5,
+			"duration": "18 min",
+			"topic": "Expert",
+			"views": 321,
+			"published_at": 1586724529,
+			"keywords": [
+				"Face",
+				"Cry"
+			]
+		},
+		{
+			"id": 11,
+			"title": "Face exercises",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_2.jpg",
+			"author": "Phillip Massey",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_1.jpg",
+			"star": 5,
+			"duration": "33 min",
+			"topic": "Intermediate",
+			"views": 641,
+			"published_at": 1586721529,
+			"keywords": [
+				"Face",
+				"Body",
+				"Exercices"
+			]
+		},
+		{
+			"id": 1,
+			"title": "Diagonal Smile",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_1.jpg",
+			"author": "Phillip Massey",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_1.jpg",
+			"star": 4,
+			"duration": "8 min",
+			"topic": "Intermediate",
+			"views": 120,
+			"published_at": 1586734529,
+			"keywords": [
+				"Face",
+				"Diagonal"
+			]
+		},
+		{
+			"id": 4,
+			"title": "Happy Smile",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_4.jpg",
+			"author": "Phillip Massey",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_1.jpg",
+			"star": 4,
+			"duration": "24 min",
+			"topic": "Expert",
+			"views": 13,
+			"published_at": 1586724529,
+			"keywords": [
+				"Face",
+				"Happy"
+			]
+		},
+		{
+			"id": 7,
+			"title": "Breath first",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_1.jpg",
+			"author": "Phillip Massey",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_1.jpg",
+			"star": 4,
+			"duration": "16 min",
+			"topic": "Novice",
+			"views": 931,
+			"published_at": 1586734529,
+			"keywords": [
+				"Breath",
+				"Body"
+			]
+		},
+		{
+			"id": 10,
+			"title": "Smile and Laugh",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_4.jpg",
+			"author": "Henry Hughes",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_4.jpg",
+			"star": 4,
+			"duration": "23 min",
+			"topic": "Intermediate",
+			"views": 837,
+			"published_at": 1586722529,
+			"keywords": [
+				"Face",
+				"Body",
+				"Happy"
+			]
+		},
+		{
+			"id": 5,
+			"title": "None-expressive Smile",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_2.jpg",
+			"author": "Nannie Lawrence",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_2.jpg",
+			"star": 3,
+			"duration": "9 min",
+			"topic": "Intermediate",
+			"views": 29,
+			"published_at": 1586732529,
+			"keywords": [
+				"Face",
+				"Expression"
+			]
+		},
+		{
+			"id": 9,
+			"title": "Don't think",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_3.jpg",
+			"author": "Nannie Lawrence",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_2.jpg",
+			"star": 3,
+			"duration": "6 min",
+			"topic": "Novice",
+			"views": 791,
+			"published_at": 1586723529,
+			"keywords": [
+				"Mind",
+				"Body"
+			]
+		},
+		{
+			"id": 12,
+			"title": "Eyes exercises",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_3.jpg",
+			"author": "Phillip Massey",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_1.jpg",
+			"star": 3,
+			"duration": "13 min",
+			"topic": "Intermediate",
+			"views": 441,
+			"published_at": 1586720529,
+			"keywords": [
+				"Face",
+				"Body",
+				"Exercices"
+			]
+		},
+		{
+			"id": 3,
+			"title": "Natural Smile",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_3.jpg",
+			"author": "Bruce Walters",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_3.jpg",
+			"star": 2,
+			"duration": "21 min",
+			"topic": "Novice",
+			"views": 310,
+			"published_at": 1586732529,
+			"keywords": [
+				"Face",
+				"Natural",
+				"Beginner"
+			]
+		},
+		{
+			"id": 8,
+			"title": "Clear your mind",
+			"sub-title": "Lorem ipsum dolor sit amet, consect adipiscing elit, sed do eiusmod.",
+			"thumb_url": "https://smileschool-api.s3.amazonaws.com/thumbnail_2.jpg",
+			"author": "Nannie Lawrence",
+			"author_pic_url": "https://smileschool-api.s3.amazonaws.com/profile_2.jpg",
+			"star": 2,
+			"duration": "9 min",
+			"topic": "Novice",
+			"views": 821,
+			"published_at": 1586724529,
+			"keywords": [
+				"Mind",
+				"Body"
+			]
+		}
+	]
+}
